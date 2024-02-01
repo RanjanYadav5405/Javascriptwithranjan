@@ -53,3 +53,26 @@ Object - object
 // https://262.ecma-international.org/5.1/#sec-11.4.3
 
 */
+
+// stack memory(primitive dataType) and Heap Memory(Non-Primitive DataTypes)
+
+// stack memory(primitive dataType)
+let name1="Ranjan Yadav"
+let name2= name1
+
+name1="Nepal"
+
+console.log(name1)
+
+//Heap Memory(Non-Primitive DataTypes)
+
+let userOne={
+    email:"ranjan@gmail.com",
+}
+
+let userTwo = userOne
+
+userTwo.email= "yadav@gmail.com"
+
+console.log(userOne.email)
+console.log(userTwo.email)
