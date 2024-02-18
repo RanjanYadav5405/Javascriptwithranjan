@@ -35,7 +35,7 @@ const user = {
 // console.log(addTwo(3,4))
 
 
-// const addTwo = (num1,num2) => (num1+num2)
+// const addTwo = (num1,num2) => (num1+num2) // In round bracket no need brackets
 // console.log(addTwo(3,4))
 
 const addTwo = (num1,num2) => ({username:"Ranjan"})
