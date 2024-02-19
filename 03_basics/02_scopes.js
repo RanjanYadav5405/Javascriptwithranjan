@@ -25,6 +25,8 @@ function one(){
 }
 one()
 
+// childs function calls parents but parents function can't call 
+
 if(true){
     const username = "Ranjan"
      if(username == "Ranjan"){

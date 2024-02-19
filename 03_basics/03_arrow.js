@@ -31,7 +31,7 @@ const user = {
 // console.log(addTwo(3,4))
 
 
-// const addTwo = (num1,num2) => num1+num2 // implicit function in one line
+// const addTwo = (num1,num2) => num1+num2 // implicit function in one line and in this no need round brackets
 // console.log(addTwo(3,4))
 
 
