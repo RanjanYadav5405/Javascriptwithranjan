@@ -7,7 +7,7 @@ if(true){
     var c =30
     // console.log("INNER: ", a)
 }
-
+               
 // console.log(a)
 // console.log(b)
 // console.log(c)
