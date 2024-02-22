@@ -6,7 +6,7 @@ tinderUser.name = "Ranjan"
 tinderUser.isLoggedIn = false
 
 //console.log(tinderUser)
-
+        
 const regularUser = {
     email:"Ranjan@gmail.com",
     fullname:{
