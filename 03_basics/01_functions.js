@@ -5,7 +5,7 @@ function sayMyName(){
     console.log("J");
     console.log("A");
     console.log("N");
-}          
+}                         
 
 // sayMyName()
 
